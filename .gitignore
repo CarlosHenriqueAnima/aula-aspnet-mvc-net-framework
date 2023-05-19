@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/aula-aspnet-mvc-net-framework/v17/.wsuo
+/.vs/LabMVC/FileContentIndex/f327e213-af6e-417f-ae40-3dee93f46f18.vsidx
+/.vs/LabMVC/FileContentIndex/read.lock
+/.vs/LabMVC/v17/.suo
+/LabMVC/obj/Debug/LabMVC.csproj.AssemblyReference.cache
+/.vs/LabMVC/config/applicationhost.config
